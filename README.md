@@ -1,1 +1,1 @@
-# xgb-lgb-lstm
+# XGBoost + LightGBM + LSTM
